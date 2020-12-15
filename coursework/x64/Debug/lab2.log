@@ -1,0 +1,11 @@
+﻿Build started 22.11.2020 10:58:20.
+     1>Project "\\Mac\Home\Desktop\lab3\lab2\lab2.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"\\Mac\Home\Desktop\lab3\lab2\x64\Debug\lab2.exe" /INCREMENTAL /NOLOGO \\Mac\Home\Desktop\lab3\lab2\packages\nupengl.core.0.1.0.1\build\native\../..//build/native/lib/x64\glew32.lib \\Mac\Home\Desktop\lab3\lab2\packages\nupengl.core.0.1.0.1\build\native\../..//build/native/lib/x64\glfw3dll.lib \\Mac\Home\Desktop\lab3\lab2\packages\nupengl.core.0.1.0.1\build\native\../..//build/native/lib/x64\freeglut.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"\\Mac\Home\Desktop\lab3\lab2\x64\Debug\lab2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"\\Mac\Home\Desktop\lab3\lab2\x64\Debug\lab2.lib" /MACHINE:X64 x64\Debug\main.obj
+     1>main.obj : error LNK2019: unresolved external symbol SOIL_load_image referenced in function main
+     1>\\Mac\Home\Desktop\lab3\lab2\x64\Debug\lab2.exe : fatal error LNK1120: 1 unresolved externals
+     1>Done Building Project "\\Mac\Home\Desktop\lab3\lab2\lab2.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.41

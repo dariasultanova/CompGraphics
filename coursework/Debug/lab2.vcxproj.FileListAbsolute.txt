@@ -1,0 +1,2 @@
+\\Mac\Home\Desktop\kurs\Debug\course_work.exe
+\\Mac\Home\Desktop\kurs\Debug\course_work.pdb

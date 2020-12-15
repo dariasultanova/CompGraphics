@@ -1,0 +1,48 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (lab2.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+\\Mac\Home\Desktop\kurs\main.cpp(26,46): warning C4305: инициализация: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\kurs\main.cpp(27,40): warning C4305: инициализация: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\kurs\main.cpp(38,20): warning C4305: инициализация: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\kurs\main.cpp(39,20): warning C4305: инициализация: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\kurs\main.cpp(45,32): warning C4305: аргумент: усечение из "double" в "GLclampf"
+\\Mac\Home\Desktop\kurs\main.cpp(71,1): warning C4305: инициализация: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\kurs\main.cpp(78,5): warning C4101: i: неиспользованная локальная переменная
+\\Mac\Home\Desktop\kurs\main.cpp(165,40): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+\\Mac\Home\Desktop\kurs\main.cpp(166,40): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+\\Mac\Home\Desktop\kurs\main.cpp(167,40): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+\\Mac\Home\Desktop\kurs\main.cpp(170,44): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+\\Mac\Home\Desktop\kurs\main.cpp(171,44): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+\\Mac\Home\Desktop\kurs\main.cpp(172,44): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+\\Mac\Home\Desktop\kurs\main.cpp(178,50): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+\\Mac\Home\Desktop\kurs\main.cpp(179,50): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+\\Mac\Home\Desktop\kurs\main.cpp(180,50): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+\\Mac\Home\Desktop\kurs\main.cpp(181,50): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+\\Mac\Home\Desktop\kurs\main.cpp(192,25): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\kurs\main.cpp(193,24): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\kurs\main.cpp(198,25): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\kurs\main.cpp(199,25): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\kurs\main.cpp(203,25): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\kurs\main.cpp(204,25): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\kurs\main.cpp(208,25): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\kurs\main.cpp(209,25): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\kurs\main.cpp(213,25): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\kurs\main.cpp(214,26): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\kurs\main.cpp(218,25): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\kurs\main.cpp(219,26): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\kurs\main.cpp(223,26): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\kurs\main.cpp(224,27): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\kurs\main.cpp(228,26): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\kurs\main.cpp(229,27): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\kurs\main.cpp(233,26): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\kurs\main.cpp(234,27): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\kurs\main.cpp(242,27): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\kurs\main.cpp(243,29): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\kurs\main.cpp(251,26): warning C4305: +=: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\kurs\main.cpp(256,31): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\kurs\main.cpp(264,26): warning C4305: -=: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\kurs\main.cpp(269,31): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\kurs\main.cpp(278,28): warning C4305: -=: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\kurs\main.cpp(295,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+\\Mac\Home\Desktop\kurs\main.cpp(301,40): warning C4305: аргумент: усечение из "double" в "GLclampf"
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+  lab2.vcxproj -> \\Mac\Home\Desktop\kurs\Debug\course_work.exe
