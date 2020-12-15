@@ -1,0 +1,4 @@
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ Таня\lab2\Debug\lab2.exe
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ Таня\lab2\Debug\lab2.pdb
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\Debug\lab2.exe
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\Debug\lab2.pdb

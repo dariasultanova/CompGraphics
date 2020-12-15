@@ -1,0 +1,42 @@
+﻿  main.cpp
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(17,46): warning C4305: инициализация: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(18,40): warning C4305: инициализация: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(28,20): warning C4305: инициализация: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(29,20): warning C4305: инициализация: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(33,36): warning C4305: аргумент: усечение из "double" в "GLclampf"
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(70,32): warning C4305: аргумент: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(80,31): warning C4305: аргумент: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(92,31): warning C4305: аргумент: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(153,40): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(154,40): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(155,40): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(157,44): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(158,44): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(159,44): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(165,49): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(166,49): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(167,49): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(168,49): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(174,28): warning C4305: +=: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(187,24): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(188,24): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(192,25): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(193,25): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(196,25): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(197,25): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(200,25): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(201,25): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(204,25): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(205,26): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(208,25): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(209,26): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(212,26): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(213,27): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(216,26): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(217,27): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(220,26): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(221,27): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(228,27): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(229,29): warning C4305: =: усечение из "double" в "GLfloat"
+\\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\main.cpp(239,35): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lab2.vcxproj -> \\Mac\Home\Desktop\палитех\Компьютерная графика\КГ\lab2\Debug\lab2.exe
